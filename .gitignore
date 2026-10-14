@@ -1,0 +1,26 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+
+# Sensitive files
+*.tfvars
+*.tfvars.json
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration
+.terraformrc
+terraform.rc
+envirnments/Compute/acm-alb/.terraform.lock.hcl
+envirnments/Compute/alb/dev/.terraform.lock.hcl
+envirnments/Compute/asg/dev/.terraform.lock.hcl
+envirnments/Compute/lt/dev/.terraform.lock.hcl
+envirnments/Compute/tg/dev/.terraform.lock.hcl
+envirnments/Network/VPC/dev/.terraform.lock.hcl
