@@ -20,7 +20,8 @@ The infrastructure is designed to provide scalability, secure networking, HTTPS 
 ##  Project Architecture
 
 The following architecture represents the AWS infrastructure implemented using Terraform.
-<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/f486cb60-c813-4586-8927-c0778ad8ae3e" />
+
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/e5ad0586-f1b7-4c47-a205-a1e6ea715250" />
 
 
 ### Architecture Flow
