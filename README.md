@@ -97,14 +97,6 @@ The Auto Scaling Group manages EC2 instances using the Launch Template.
 
 - Configured Amazon S3 as the remote backend for Terraform state storage.
 
-##  Website Testing
-
-**Domain:** https://prod-dev.poojadaingade.shop
-
-The website was accessed through the custom domain to verify HTTPS connectivity.
-
-Refreshing the webpage displayed different EC2 instance IDs, demonstrating traffic distribution between instances through the Application Load Balancer.
-
 ##  Project Documentation
 
 Detailed project documentation, including implementation screenshots and configuration details, is available below.
